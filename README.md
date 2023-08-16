@@ -1,6 +1,9 @@
-# Video-Downlaoder-Python
+# Video-Downlaoder-Python-GUI-Based
 
-!! Important Note !!
+![image](https://github.com/ManvendraSinghh/Video-Downlaoder-Python/assets/117578356/4f2adb8f-8e62-44ce-a8aa-3cceeabec9df)
+
+
+# !! Important Note !! 
 There is a bug in the recent update of PyTube so we have to make slight changes for it to work.
 In order to solve the problem of 
 " __init__: could not find match for ^\w+\W ", 
@@ -17,3 +20,4 @@ with this line :
 var_regex = re.compile(r"^\$*\w+\W")
 
 It will work again.
+
