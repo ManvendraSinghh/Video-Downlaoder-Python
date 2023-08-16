@@ -25,23 +25,23 @@ It will work again.
 It is a Python-based graphical user interface (GUI) application designed to make downloading YouTube videos a breeze. With a touch of Lofi inspiration in its UI, this tool offers a seamless experience for downloading both individual videos and playlists from YouTube. 🎧🎬
 
 # Features:
-**_Easy Video Downloading_**: Download single videos or entire playlists effortlessly.
+**_Easy Video Downloading_**: Download single videos or entire playlists effortlessly.__
 
-**_Lofi-Themed UI_**: The UI design carries a soothing Lofi vibe, inspired by the creator's development journey accompanied by Lofi songs. 🎶🎨
+**_Lofi-Themed UI_**: The UI design carries a soothing Lofi vibe, inspired by the creator's development journey accompanied by Lofi songs. 🎶🎨__
 
-**_Playlist Enhancements_**: Each video downloaded from a playlist is prefixed with a sequence number for easy organization.
+**_Playlist Enhancements_**: Each video downloaded from a playlist is prefixed with a sequence number for easy organization.__
 
-**_Music-Only Downloads_**: Download audio tracks from videos to create your personal music library.
+**_Music-Only Downloads_**: Download audio tracks from videos to create your personal music library.__
 
-**_Multi-threading Enabled_**: Download up to 4 videos in parallel, optimizing your download time.
+**_Multi-threading Enabled_**: Download up to 4 videos in parallel, optimizing your download time.__
 
 
 # Technologies Used:
-**_Python_**: The backbone of the application.
+**_Python_**: The backbone of the application.__
 
-**_Tkinter_**: Creating the user-friendly graphical interface.
+**_Tkinter_**: Creating the user-friendly graphical interface.__
 
-**_Pytube_**: Handling YouTube video downloads efficiently.
+**_Pytube_**: Handling YouTube video downloads efficiently.__
 
 
 # How to Use:
