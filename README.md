@@ -25,38 +25,39 @@ It will work again.
 It is a Python-based graphical user interface (GUI) application designed to make downloading YouTube videos a breeze. With a touch of Lofi inspiration in its UI, this tool offers a seamless experience for downloading both individual videos and playlists from YouTube. 🎧🎬
 
 # Features:
-**_Easy Video Downloading_**: Download single videos or entire playlists effortlessly.__
-**_Lofi-Themed UI_**: The UI design carries a soothing Lofi vibe, inspired by the creator's development journey accompanied by Lofi songs. 🎶🎨__
-**_Playlist Enhancements_**: Each video downloaded from a playlist is prefixed with a sequence number for easy organization.__
-**_Music-Only Downloads_**: Download audio tracks from videos to create your personal music library.__
-**_Multi-threading Enabled_**: Download up to 4 videos in parallel, optimizing your download time.__
+**_Easy Video Downloading_**: Download single videos or entire playlists effortlessly.  
+
+**_Lofi-Themed UI_**: The UI design carries a soothing Lofi vibe, inspired by the creator's development journey accompanied by Lofi songs. 🎶🎨  
+**_Playlist Enhancements_**: Each video downloaded from a playlist is prefixed with a sequence number for easy organization.  
+**_Music-Only Downloads_**: Download audio tracks from videos to create your personal music library.  
+**_Multi-threading Enabled_**: Download up to 4 videos in parallel, optimizing your download time.  
 
 
 # Technologies Used:
-**_Python_**: The backbone of the application.__
-**_Tkinter_**: Creating the user-friendly graphical interface.__
-**_Pytube_**: Handling YouTube video downloads efficiently.__
+**_Python_**: The backbone of the application.  
+**_Tkinter_**: Creating the user-friendly graphical interface.  
+**_Pytube_**: Handling YouTube video downloads efficiently.  
 
 
 # How to Use:
-Launch the application.__
-Enter the URL of the video or playlist you want to download.__
-Choose your desired options: individual video, entire playlist, music-only, etc.__
-Sit back and relax as LofiTunes works its magic! 🎶✨__
+Launch the application.  
+Enter the URL of the video or playlist you want to download.  
+Choose your desired options: individual video, entire playlist, music-only, etc.  
+Sit back and relax as LofiTunes works its magic! 🎶✨  
 
 
 # Installation:
-Clone this repository to your local machine.__
-Ensure you have Python and the required libraries (Tkinter, Pytube) installed.__
-Run the main script to start using LofiTunes YouTube Downloader.__
+Clone this repository to your local machine.  
+Ensure you have Python and the required libraries (Tkinter, Pytube) installed.  
+Run the main script to start using LofiTunes YouTube Downloader.  
 
 
 # Contribution:
 Contributions are welcome! Whether you want to add features, fix bugs, or improve the UI, feel free to submit a pull request.
 
 # Future Enhancements:
-Support for additional video platforms.__
-Enhanced playlist handling and sorting options.__
-User-customizable themes and UI presets.__
+Support for additional video platforms.  
+Enhanced playlist handling and sorting options.  
+User-customizable themes and UI presets.  
 
 Download your favorite videos and tunes in style with LofiTunes YouTube Downloader. Spread the Lofi vibes! 🎶📽️
